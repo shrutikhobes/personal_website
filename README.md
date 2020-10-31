@@ -1,13 +1,13 @@
-STRML.net
+shrutikhobes.com
 =========
 
-[View Site](http://strml.net)
+[View Site](https://shrutikhobes.com)
 
 Building
 --------
 
 ```bash
-git clone git@github.com:STRML/strml.net.git
+git clone git@github.com:shrutikhobes/shrutikhobes.com.git
 cd strml.net
 npm install
 npm run dev
